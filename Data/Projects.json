@@ -7,7 +7,25 @@
         "server": "https://github.com/Electra51/pick-food-server",
         "client": "https://github.com/Electra51/pick-food",
         "live": "https://pick-food-f91bb.web.app/",
-        "detail":""
+      
+            "first":"PickFood is a Mern stack review project made with MongoDB and ReactJs.",
+            "second":"Any user can visit the website, but they cannot visit all routes.",
+            "third":"Only registered users can visit all routes and use all features of this website.",
+            "forth":"Registered user add review for food,also add product,delete and update his product review.",
+            "fifth":"Client side and server side also available here."
+        ,
+        "s01":"React js",
+        "s02":"React router dom",
+        "s03":"React hot toast",
+        "s04":"Node js",
+        "s05":"Express.js",
+        "s06":"Mongodb",
+        "s07":"CRUD operation",
+        "s08":"DaisyUI",
+
+        "img1":"https://i.ibb.co/fxztjjF/pickfoodjjjj.png",
+        "img2":"https://i.ibb.co/ggk53hK/pickreview.png",
+        "img3":"https://i.ibb.co/fkn6z3b/pickblog.png"
     },
     {
         "id":"2",
@@ -16,7 +34,23 @@
         "img": "https://i.ibb.co/SXBmH9X/Capture.png",
         "client": "https://github.com/Electra51/react-quizone",
         "live": "https://splendorous-brigadeiros-d5f70e.netlify.app/",
-        "detail":""
+      
+            "first":"QuiZone is react based online quiz test web application.",
+            "second":"Any user visit this website and participate any quiz test.",
+            "third":"User can see the right answer after giving quiz test.",
+            "forth":"Here a blog section is available and user can read blogs.",
+            "fifth":"Here use react rechart for showing all subject and question ratio.",
+            "s01":"React js",
+        "s02":"React router dom",
+        "s03":"react-tostify",
+        "s04":"react-chart",
+        "s05":"Rest API",
+        "s06":"TailwindCss",
+        "s07":"TailwindCss",
+        "s08":"TailwindCss",
+        "img1":"https://i.ibb.co/BrrfHqm/Capture.png",
+        "img2":"https://i.ibb.co/wBGvqLP/quizone.png",
+        "img3":"https://i.ibb.co/16CzpcW/Capture.png"
     },
         {
             "id":"3",
@@ -26,18 +60,56 @@
             "server": "https://github.com/Electra51/icebox-server",
             "client": "https://github.com/Electra51/icebox-client",
             "live": "https://icebox-5795c.web.app/",
-            "detail":""
+           
+                "first":"IceBox is and old product selling website based on mongodb and react js.",
+                "second":"There are 3 type of user here such as buyer,seller and admin.",
+                "third":"Admin manage all buyer and seller,he remove and verify any seller easily",
+                "forth":"Buyer buy something and also report to admin for a product,after buying product he see the order list on his dashboard.Buyer pay using stripe payment system.",
+                "fifth":"Seller add product,advertise his product and also delete this.",
+          
+                "s01":"React js",
+                "s02":"React router dom",
+                "s03":"React hot toast",
+                "s04":"Node js",
+                "s05":"Express.js",
+                "s06":"Mongodb",
+                "s07":"JWT, payment stripe",
+                "s08":"DaisyUI",
+                
+            "img1":"https://i.ibb.co/SNv8Bzd/iceboxblog.png",
+            "img2":"https://i.ibb.co/XLhX7LH/iceboxadmin.png",
+            "img3":"https://i.ibb.co/VJ96Tdw/iceboxseller.png"
             
     },
   
     {
         "id":"4",
-        "project_name": "GYM-Club",
-        "describe":"This is an GYM item selecting site using react.js It allows users to add...",
+        "project_name": "SE Learning",
+        "describe":"This is an e-learning website using react.js, node js and...",
         "img": "https://i.ibb.co/R7F17CV/Capture.png",
-        "client": "https://github.com/Electra51/gym-club",
-        "live": "https://phenomenal-melomakarona-85e196.netlify.app/",
-        "detail":""
+        "server":"https://github.com/Electra51/learning-site-server",
+        "client": "https://github.com/Electra51/learning-site",
+        "live": "https://learning-site-a4e19.web.app/",
+        
+            "first":"SE Learning is an online courses website like coursera,udemy",
+            "second":"User visit website and take any courses. ",
+            "third":"User see the lecture duration,total lecture and so on.",
+            "forth":"Also download any courses",
+            "fifth":"Only registered user get premium access here.",
+       
+            "s01":"React js",
+            "s02":"React router dom",
+            "s03":"React hot toast",
+            "s04":"Node js",
+            "s05":"Express.js",
+            "s06":"Mongodb",
+            "s07":"CRUD operation",
+            "s08":"DaisyUI",
+            
+            
+        "img1":"https://i.ibb.co/JtxPj5y/learning33.png",
+        "img2":"https://i.ibb.co/gthyfnF/learning2.png",
+        "img3":"https://i.ibb.co/8PSWCyB/learning.png"
     }
    
 ]
