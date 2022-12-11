@@ -1,0 +1,43 @@
+[
+    {
+        "id":"1",
+        "project_name": "PickFood",
+        "describe":"Pickfood is a review based Mern stack project made with MongoDB and...",
+        "img": "https://i.ibb.co/gWPdFjN/22.png",
+        "server": "https://github.com/Electra51/pick-food-server",
+        "client": "https://github.com/Electra51/pick-food",
+        "live": "https://pick-food-f91bb.web.app/",
+        "detail":""
+    },
+    {
+        "id":"2",
+        "project_name": "QuiZone",
+        "describe":"This is an Online quiz system based on react js and tailwind and also responsive client...",
+        "img": "https://i.ibb.co/SXBmH9X/Capture.png",
+        "client": "https://github.com/Electra51/react-quizone",
+        "live": "https://splendorous-brigadeiros-d5f70e.netlify.app/",
+        "detail":""
+    },
+        {
+            "id":"3",
+            "project_name": "IceBox",
+            "describe":"IceBox is a  previous product-selling website, complete with full functionality with mong...",
+            "img": "https://i.ibb.co/2K7Tfgz/44.png",
+            "server": "https://github.com/Electra51/icebox-server",
+            "client": "https://github.com/Electra51/icebox-client",
+            "live": "https://icebox-5795c.web.app/",
+            "detail":""
+            
+    },
+  
+    {
+        "id":"4",
+        "project_name": "GYM-Club",
+        "describe":"This is an GYM item selecting site using react.js It allows users to add...",
+        "img": "https://i.ibb.co/R7F17CV/Capture.png",
+        "client": "https://github.com/Electra51/gym-club",
+        "live": "https://phenomenal-melomakarona-85e196.netlify.app/",
+        "detail":""
+    }
+   
+]
