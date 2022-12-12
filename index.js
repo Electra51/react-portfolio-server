@@ -4,7 +4,7 @@ const cors = require('cors');
 const port = process.env.PORT || 5000;
 
 app.use(cors());
-module.exports = app;
+
 
 const projects = require('./data/Projects.json');
 
@@ -24,4 +24,6 @@ app.get('/projects/:id', (req, res) => {
 
 app.listen(port, () => {
     console.log('portfolio Project Server running on port', port);
-})
+});
+
+module.exports = app;
